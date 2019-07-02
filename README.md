@@ -9,7 +9,7 @@ Do the following before you come to the tutorial:
 *  Goto [Google's Colaboratory Platform](https://colab.research.google.com) 
 *  You should see this page
 ![start_page](README_imgs/colab_start_page.png)
-*  Click on the `New Python 3 Notebook` at it may say `Python 2` but just click the drop down arrow and select the `Python 3` option.
+*  Click on the `New Python 3 Notebook` - it may say `Python 2` but just click the drop down arrow and select the `Python 3` option.
 *  Now you will see a new notebook where you can type in python code.
 ![clean_page](README_imgs/colab_clean_page.png)
 *  After you enter code, type `<shift>+<enter>` to execute the code cell.
